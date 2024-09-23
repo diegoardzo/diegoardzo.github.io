@@ -1,0 +1,13 @@
+h1{
+    font-family: "Quicksand", sans-serif;
+    font-size: 40px;
+}
+P{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: white;
+}
+footer{
+    background-color: blueviolet;
+    padding: 0.5px 5px;
+}
